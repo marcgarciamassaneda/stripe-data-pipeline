@@ -1,0 +1,5 @@
+sources:
+  - name: stripe_data
+    tables:
+      - name: raw_charges
+      - name: raw_customers

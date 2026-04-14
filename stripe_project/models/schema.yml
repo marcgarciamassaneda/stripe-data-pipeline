@@ -1,0 +1,10 @@
+
+version: 2
+
+models:
+  - name: stg_customers
+    description: "Staging model for customers data from Stripe"
+
+
+  - name: stg_charges
+    description: "Staging model for charges data from Stripe"
